@@ -1,8 +1,4 @@
 
-
-#               EdLight
-# Machine Learning Intern - Asynchronous Task
-
 ## Data Preparation
 * Splitting dataset frame into Train and Test data frame.
 
